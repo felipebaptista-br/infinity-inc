@@ -1,0 +1,13 @@
+
+#content_Assets {
+    /* border: 5px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+#section_Input_Assets {
+    width: 50%;
+    color: #ffffff;
+}
